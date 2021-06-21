@@ -1,0 +1,34 @@
+.top_row{
+  border: 1px solid black;
+  width:40px;
+  height:40px;
+}
+
+.second_row{
+  border: 1px solid black;
+  width:40px;
+  height:40px;
+}
+
+.third_row{
+  border: 1px solid black;
+  width:40px;
+  height:40px;
+}
+
+.fourth_row{
+  border: 1px solid black;
+  width:40px;
+  height:40px;
+}
+
+#first_box{
+  width:100px;
+  text-align: center;
+  border-right: 1px solid black;
+  border-left: 0px;
+}
+
+h2 {
+  color: blue;
+}
